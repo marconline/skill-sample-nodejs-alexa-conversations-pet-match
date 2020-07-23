@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "final pet match test",
+            "invocationName": "pet match",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
@@ -123,16 +123,6 @@
                                     "mad",
                                     "aggressive"
                                 ]
-                            }
-                        }
-                    ]
-                },
-                {
-                    "name": "stringLiteral",
-                    "values": [
-                        {
-                            "name": {
-                                "value": "dummy value: literal API return entity"
                             }
                         }
                     ]
